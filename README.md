@@ -7,11 +7,11 @@
 - 💻 I enjoy working with code, circuits, UAV and whatnots  
 - 🧠 Curious to work on new stuff i have 0 idea on
 
----
+
 
 <img align="right" height="170" src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Tech Gif" />
 
----
+
 
 ### 🛠️ Languages & Tools
 
