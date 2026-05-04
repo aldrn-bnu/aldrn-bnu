@@ -1,12 +1,11 @@
-<h2 align="left">Hi 👋! My name is Aldrin and I'm an engineering student pursuing Artificial Intelligence and Data Science from Kerala, India 🇮🇳</h2>
+<h2 align="left">Heyyy, Aldrin here;</h2>
 
 ---
 
 ### 🧾 About Me
-- 🎓 Currently studying AI & DS  
-- 💻 I enjoy working with code, circuits, and real-time applications  
-- 🧠 Always curious to learn new tools, libraries, and technologies  
-- 🛠️ Focused on practical implementation and intuitive user experience  
+- 🎓 Btech with specialization in AI & DS  
+- 💻 I enjoy working with code, circuits, UAV and whatnots  
+- 🧠 Curious to work on new stuff i have 0 idea on
 
 ---
 
@@ -49,9 +48,8 @@
 
 ### 📊 GitHub Highlights
 
-- 🔥 Frequent commits & clean repositories  
-- ⭐ Public projects with hands-on logic & interface  
-- 🧪 Combines software and hardware-level coding  
+- 🔥 Trying for clean repositories  
+- ⭐ Projects with hands-on logic & interface  
 - 📈 Versed in code structuring, debugging, and problem solving  
 
 ---
