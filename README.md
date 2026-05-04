@@ -9,13 +9,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldrn-bnu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrn-bnu&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
 <img align="right" height="170" src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Tech Gif" />
 
 ---
